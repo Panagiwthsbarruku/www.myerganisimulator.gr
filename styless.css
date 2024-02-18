@@ -1,0 +1,98 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+  body{
+     background-color: rgb(243, 243, 243);
+}
+  .container{
+     display: block;
+      margin: auto;
+      width: 285px;
+      height: 560px;
+      border: 1px solid #000;
+       border-radius: 10px;
+         margin-top: 5%;
+   background-color: #fffefe;
+}
+ img{
+    width: 79px;
+     border-radius: 90px;
+      float: left;
+}
+.fa-bell{
+    width: 40px;
+     margin-top: 10%;
+     zoom: 130%;
+     border: none;
+       margin-left:  43%;
+        color: #110d0d99;
+        background-color: #00000000;
+
+}
+ .fa-bars{
+ float: right;
+  margin-top: 10%;
+   border: none;
+   color: #000;
+    background-color: #00000000;
+    zoom: 130%;
+}
+ .btn-1{
+   border: none;
+   border-radius: 10pc;
+    background-color: rgb(35, 35, 92);
+     color: aliceblue;
+ }
+  .btn-2{
+   border: none;
+   border-radius: 10pc;
+    background-color: #fffefe;
+     color: blue;
+      float: right;
+  }
+   .card{
+      width: 270px;
+       margin-top: 10%;
+      border: 2px solid #ffffff;
+      height: 80px;
+       border-radius: 20px;
+ box-shadow: 0px -3px 0px 0px #43d00c,
+ 1px 2px #000000f1 ;
+}
+ h4{
+    margin-top: 1%;
+     margin-left: 2%;
+}
+h5{
+    margin-top: -6%;
+}
+ h6{
+    color: rgb(9, 9, 21);
+     margin-left: 4%;
+}
+ h3{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ .navbar-ios{
+     margin-top: 80%;
+ padding: 0%;
+  text-align: center;
+   color: #fffefe;
+   text-decoration: none;
+}
+ ul{
+    float: left;
+    padding: 0%;
+    margin-top: 0%;
+}
+.navbar-ios a:hover {
+   color: black;
+}
+ .navbar-ios a,.active {
+   color: rgb(107, 105, 105);
+   text-decoration: none;
+}
+.fa-users{
+  display: block;
+}
+
+ 
+
